@@ -120,17 +120,6 @@ Run the game:
 python index.py
 ```
 
-## 🗂️ Project Structure
-
-```text
-stick-man-game-/
-│
-├── index.py
-├── README.md
-├── requirements.txt
-└── assets/
-```
-
 ## 📋 Requirements
 
 Create a `requirements.txt` file containing:
